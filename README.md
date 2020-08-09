@@ -9,7 +9,7 @@ var config = {
   MY_KEY : 'YOUR KEY HERE',
 }
 
-Made alongside the tutorial from dev ed on youtube, apart from a handfull of things i added.
+Made alongside the tutorial from dev ed on youtube plus a handfull of things i added.
 
 
 Live version accesiblle at: YOU CAN'T. Seriously it's pretty hard to depploy a single page app to heroku, much harder than an app with a backend and a database... So still working on it
